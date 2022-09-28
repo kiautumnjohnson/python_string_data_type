@@ -16,7 +16,6 @@ current_year = 2022
 
 
 
-
 # TODO String Indexing
 #   - Print the following items (one per line) (print using variables)
 #       - first name  
@@ -25,8 +24,12 @@ current_year = 2022
 #       - second letter of your last name (use the -index)
 #       - first two letter of your first name (use the +index)
 #       - second two letter of your last name (use the -index)
-
-
+print (my_first_name)
+print (my_last_name)
+print (my_first_name[0])
+print (my_last_name[-6])
+print (my_first_name[0:2])
+print (my_last_name[-2:])
 
 
 #TODO Combining Strings
